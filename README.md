@@ -7,7 +7,7 @@
 - 📫 you can reach me on teodor.sheynov@gmail.com
 
 ## Languages
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeodorSheynov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)\
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeodorSheynov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Stats
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeodorSheynov&show_icons=true&theme=tokyonight)
 <!---
