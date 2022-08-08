@@ -1,4 +1,4 @@
-<img src="https://media0.giphy.com/media/3o7bukPWLMVsRz38J2/giphy.gif?cid=ecf05e47olm5it99oze7uaikaim4mpe4gtqo2abjqwgjw6ql&rid=giphy.gif&ct=g" width=2000px>
+<img src="https://media0.giphy.com/media/3o7bukPWLMVsRz38J2/giphy.gif?cid=ecf05e47olm5it99oze7uaikaim4mpe4gtqo2abjqwgjw6ql&rid=giphy.gif&ct=g" width=200px>
 
 ###  Hello there, my name is **Teodor**
 
